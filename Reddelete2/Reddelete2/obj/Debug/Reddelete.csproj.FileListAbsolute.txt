@@ -1,0 +1,15 @@
+C:\Users\blivo\documents\visual studio 2017\Projects\Reddelete2\Reddelete2\bin\Debug\dictionary2.rtf
+C:\Users\blivo\documents\visual studio 2017\Projects\Reddelete2\Reddelete2\bin\Debug\dictionary.rtf
+C:\Users\blivo\documents\visual studio 2017\Projects\Reddelete2\Reddelete2\bin\Debug\Reddelete2.exe.config
+C:\Users\blivo\documents\visual studio 2017\Projects\Reddelete2\Reddelete2\bin\Debug\Reddelete2.exe
+C:\Users\blivo\documents\visual studio 2017\Projects\Reddelete2\Reddelete2\bin\Debug\Reddelete2.pdb
+C:\Users\blivo\documents\visual studio 2017\Projects\Reddelete2\Reddelete2\bin\Debug\RedditSharp.dll
+C:\Users\blivo\documents\visual studio 2017\Projects\Reddelete2\Reddelete2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\blivo\documents\visual studio 2017\Projects\Reddelete2\Reddelete2\bin\Debug\RedditSharp.pdb
+C:\Users\blivo\documents\visual studio 2017\Projects\Reddelete2\Reddelete2\obj\Debug\Reddelete2.Dictionary.resources
+C:\Users\blivo\documents\visual studio 2017\Projects\Reddelete2\Reddelete2\obj\Debug\Reddelete2.Main.resources
+C:\Users\blivo\documents\visual studio 2017\Projects\Reddelete2\Reddelete2\obj\Debug\Reddelete2.Properties.Resources.resources
+C:\Users\blivo\documents\visual studio 2017\Projects\Reddelete2\Reddelete2\obj\Debug\Reddelete.csproj.GenerateResource.Cache
+C:\Users\blivo\documents\visual studio 2017\Projects\Reddelete2\Reddelete2\obj\Debug\Reddelete.csproj.CoreCompileInputs.cache
+C:\Users\blivo\documents\visual studio 2017\Projects\Reddelete2\Reddelete2\obj\Debug\Reddelete2.exe
+C:\Users\blivo\documents\visual studio 2017\Projects\Reddelete2\Reddelete2\obj\Debug\Reddelete2.pdb
